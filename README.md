@@ -1,8 +1,6 @@
-
 <!-- Banner Principal -->
 <p align="center">
-  <img width="1024" height="572" alt="banner" src="https://github.com/user-attachments/assets/ec2e1888-e5a8-452c-b9a8-cde7a64f3c41" />
-  <img src="https://raw.githubusercontent.com/Mattwigor/Mattwigor/main/banner.jpg" width="100%" alt src="https://github.com/user-attachments/assets/ec2e1888-e5a8-452c-b9a8-cde7a64f3c41"  />
+  <img src="https://github.com/user-attachments/assets/ec2e1888-e5a8-452c-b9a8-cde7a64f3c41" width="100%" alt="Matt' Tech World Banner" />
 </p>
 
 <!-- Links de Contato / Redes Sociais -->
@@ -14,7 +12,7 @@
 
 <br />
 
-<!-- Seção Sobre Mim + Animação -->
+<!-- Seção Sobre Mim + Imagem Lateral -->
 <table>
   <tr>
     <td width="60%">
@@ -28,8 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img width="294" height="374" alt="zias-blou" src="https://github.com/user-attachments/assets/b3b03a7a-9fc3-4a63-8205-da9903d5d540"
-/>
+      <img src="https://github.com/user-attachments/assets/b3b03a7a-9fc3-4a63-8205-da9903d5d540" width="250px" alt="Side Animation" />
     </td>
   </tr>
 </table>
@@ -52,7 +49,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-<br />
-
-
