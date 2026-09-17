@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGG4dbv5BLPP4PP/giphy.gif" width="220px" alt="Coding GIF" />
+      <img src=https://wallpaperaccess.com/linux-penguin />
     </td>
   </tr>
 </table>
