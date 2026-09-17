@@ -1,3 +1,4 @@
+<img width="294" height="374" alt="zias-blou" src="https://github.com/user-attachments/assets/21204e3e-5a7f-4c51-835a-7459b396a9ec" />
 
 <!-- Banner Principal -->
 <p align="center">
@@ -28,7 +29,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-![Uploading zias-blou.gif…]()
+      <img width="294" height="374" alt="zias-blou" src="https://github.com/user-attachments/assets/b3b03a7a-9fc3-4a63-8205-da9903d5d540" />
+
  />
     </td>
   </tr>
