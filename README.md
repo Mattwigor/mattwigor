@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-<img width="860" height="645" alt="linux" src="https://github.com/user-attachments/assets/adbfe8ba-ba73-4dac-9303-19fcd6fd3a9a" />
+<div class="tenor-gif-embed" data-postid="16753218273874373982" data-share-method="host" data-aspect-ratio="0.787149" data-width="100%"><a href="https://tenor.com/view/zias-blou-funny-dumb-gif-16753218273874373982">Zias Blou GIF</a>from <a href="https://tenor.com/search/zias-gifs">Zias GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> />
     </td>
   </tr>
 </table>
