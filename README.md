@@ -1,4 +1,3 @@
-<img width="294" height="374" alt="zias-blou" src="https://github.com/user-attachments/assets/21204e3e-5a7f-4c51-835a-7459b396a9ec" />
 
 <!-- Banner Principal -->
 <p align="center">
