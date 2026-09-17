@@ -28,7 +28,6 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src=https://wallpaperaccess.com/linux-penguin /  />
 <img width="860" height="645" alt="linux" src="https://github.com/user-attachments/assets/adbfe8ba-ba73-4dac-9303-19fcd6fd3a9a" />
     </td>
   </tr>
