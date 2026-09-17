@@ -28,7 +28,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-<div class="tenor-gif-embed" data-postid="16753218273874373982" data-share-method="host" data-aspect-ratio="0.787149" data-width="100%"><a href="https://tenor.com/view/zias-blou-funny-dumb-gif-16753218273874373982">Zias Blou GIF</a>from <a href="https://tenor.com/search/zias-gifs">Zias GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> />
+![Uploading zias-blou.gif…]()
+ />
     </td>
   </tr>
 </table>
