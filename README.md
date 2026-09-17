@@ -44,12 +44,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-<br />
-
-<!-- GitHub Statistics (Servidor Estável sem Erro de API) -->
-<h3>📊 GitHub Activity</h3>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mattwigor&theme=tokyo-night&hide_border=true" />
-</p>
