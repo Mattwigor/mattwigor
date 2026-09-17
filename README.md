@@ -1,7 +1,9 @@
+<!-- Banner Principal -->
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Banner.Jpeg" />
+  <img src="https://raw.githubusercontent.com/Mattwigor/Mattwigor/main/banner.jpg" width="100%" alt="Matt' Tech World Banner" />
 </p>
-<!-- Social Links / Badges -->
+
+<!-- Links de Contato / Redes Sociais -->
 <p align="center">
   <a href="https://linkedin.com/in/Mattwigor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Matheus.Rodrigues6924@gmail.Com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,7 +12,7 @@
 
 <br />
 
-<!-- About Me Section + Side Image -->
+<!-- Seção Sobre Mim + Animação -->
 <table>
   <tr>
     <td width="60%">
@@ -31,19 +33,29 @@
 
 <br />
 
-<!-- Technologies & Tools -->
+<!-- Tecnologias e Ferramentas -->
 <h3>🛠️ Technologies & Tools</h3>
 
 <p align="left">
-  <!-- Networking & Linux -->
+  <!-- Redes & Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-167DA4?style=flat-square&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-TCP%2FIP-00599C?style=flat-square" />
   <br />
-  <!-- Development -->
+  <!-- Desenvolvimento -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<br />
+
+<!-- Estatísticas do GitHub -->
+<h3>📊 GitHub Statistics</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mattwigor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattwigor&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
