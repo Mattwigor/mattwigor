@@ -15,8 +15,8 @@
 
 ## 🗺 Roadmap atual
 - ✅ Configurar ambiente Linux personalizado
-- 📖 Estudando fundamentos de redes
-- 🎯 Meta: Certificação Cisco CCNA
+- 📖 Estudando redes
+- 🎯 Meta: 
 
 ## 📫 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-Mattwigor-bf5af2?style=flat&logo=github&logoColor=white)](https://github.com/Mattwigor)
