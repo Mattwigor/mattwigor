@@ -49,3 +49,23 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+<hr />
+
+<!-- Featured Projects -->
+<h3>💻 Featured Projects</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/Mattwigor/linux-check-invasion">linux-check-invasion</a></h4>
+      <p>An open-source Linux monitoring system designed to detect unauthorized access, high CPU/RAM usage, and malicious network ports in real time.</p>
+      <p><b>Stack:</b> <code>Bash</code>, <code>System Administration</code>, <code>Security</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 <a href="https://github.com/Mattwigor/GamerSearchHub">GamerSearchHub</a></h4>
+      <p>A full-stack matchmaking platform built for player recruitment and profile showcasing, demonstrating end-to-end web architecture.</p>
+      <p><b>Stack:</b> <code>Next.js</code>, <code>NestJS</code>, <code>TypeScript</code></p>
+    </td>
+  </tr>
+</table>
