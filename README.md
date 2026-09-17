@@ -6,7 +6,6 @@
 
 ## 🛠 Ferramentas que uso
 ![Linux](https://img.shields.io/badge/Linux-Bhodi-bf5af2?style=flat&logo=linux&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-1ba0d7?style=flat&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-análise-5ac8fa?style=flat&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-versionamento-ff375f?style=flat&logo=git&logoColor=white)
 
