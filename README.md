@@ -62,10 +62,4 @@
       <p>An open-source Linux monitoring system designed to detect unauthorized access, high CPU/RAM usage, and malicious network ports in real time.</p>
       <p><b>Stack:</b> <code>Bash</code>, <code>System Administration</code>, <code>Security</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎮 <a href="https://github.com/Mattwigor/GamerSearchHub">GamerSearchHub</a></h4>
-      <p>A full-stack matchmaking platform built for player recruitment and profile showcasing, demonstrating end-to-end web architecture.</p>
-      <p><b>Stack:</b> <code>Next.js</code>, <code>NestJS</code>, <code>TypeScript</code></p>
-    </td>
-  </tr>
-</table>
+   
