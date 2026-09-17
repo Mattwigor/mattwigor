@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Header Banner" />
+  <img src="banner.jpg" width="100%" alt="Banner.Jpeg" />
 </p>
 <!-- Social Links / Badges -->
 <p align="center">
