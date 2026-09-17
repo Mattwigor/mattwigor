@@ -1,20 +1,23 @@
 # 📡 IT Support Specialist | Networking & Linux Specialist in training
 
-> ** Current Mission:** Building Solid IT & network foundations in support, aiming for a tech career in Japan 🇯🇵
+> ** Current Mission:** Building Solid IT & network foundations in support, aiming for a tech career in Japan 🍜
 
-🎓 Estudo Redes de Computadores  
-🐧 Usuário Linux — Bhodi Linux  
-🌐 Obssecado por redes, segurança e tecnologia  
+---
 
-## 🛠 Ferramentas que uso
-![Linux](https://img.shields.io/badge/Linux-Bhodi-bf5af2?style=flat&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-análise-5ac8fa?style=flat&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-versionamento-ff375f?style=flat&logo=git&logoColor=white)
+## ⚡ Quick overview
+I handle real-world IT support and infrastructure troubleshooting by day while diving deep into **Computer Nertwork**, **Linux Systems**, and **Automation** by night.
+I´m actively shaping my technical stack to transition into network engineering and sysadmin roles-with a clear long-term goal of bringing my skills to the japanese tech industry.
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mattwigor&show_icons=true&theme=synthwave&hide_border=true)
+---
 
-## 🗺 Roadmap atual
+## Core Focus Area 
+**Networking:** Routing//switching concepts,protocols,monitoring, and security fundamentals.
+**Linux & CLI:** System administration, daily-driver setups,and Bash automation.
+**Languages:** English(B1), Portuguese(Native), and working towards Japanese Fluency.
+
+---
+
+## 🗺 actually 
 - ✅ Configurar ambiente Linux personalizado
 - 📖 Estudando redes
 - 🎯 Meta: 
