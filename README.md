@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="Header Banner" />
+</p>
 <!-- Social Links / Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/Mattwigor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
