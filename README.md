@@ -1,4 +1,6 @@
-# Opa, Eu sou o Matheus! 👋
+# 📡 IT Support Specialist | Networking & Linux Specialist in training
+
+> ** Current Mission:** Building Solid IT & network foundations in support, aiming for a tech career in Japan 🇯🇵
 
 🎓 Estudo Redes de Computadores  
 🐧 Usuário Linux — Bhodi Linux  
