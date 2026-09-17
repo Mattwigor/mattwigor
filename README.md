@@ -2,7 +2,7 @@
 <!-- Banner Principal -->
 <p align="center">
   <img width="1024" height="572" alt="banner" src="https://github.com/user-attachments/assets/ec2e1888-e5a8-452c-b9a8-cde7a64f3c41" />
-  <img src="https://raw.githubusercontent.com/Mattwigor/Mattwigor/main/banner.jpg" width="100%" alt="" src="https://github.com/user-attachments/assets/ec2e1888-e5a8-452c-b9a8-cde7a64f3c41" />" />
+  <img src="https://raw.githubusercontent.com/Mattwigor/Mattwigor/main/banner.jpg" width="100%" alt src="https://github.com/user-attachments/assets/ec2e1888-e5a8-452c-b9a8-cde7a64f3c41"  />
 </p>
 
 <!-- Links de Contato / Redes Sociais -->
