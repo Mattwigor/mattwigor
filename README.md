@@ -1,8 +1,3 @@
-<!-- Top Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e222a&height=180&section=header&text=%3CWelcome%20to%20My%20Tech%20World%20/%3E&fontSize=32&fontColor=61afef&animation=twinkling" width="100%" />
-</p>
-
 <!-- Social Links / Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/Mattwigor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
