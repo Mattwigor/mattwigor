@@ -28,9 +28,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img width="294" height="374" alt="zias-blou" src="https://github.com/user-attachments/assets/b3b03a7a-9fc3-4a63-8205-da9903d5d540" />
-
- />
+      <img width="294" height="374" alt="zias-blou" src="https://github.com/user-attachments/assets/b3b03a7a-9fc3-4a63-8205-da9903d5d540"
+/>
     </td>
   </tr>
 </table>
